@@ -1,0 +1,11 @@
+Car_Brand,Model,Year,Price,Units_Sold,Fuel_Type,Transmission
+Toyota,Camry,2018,22000,150,Petrol,Automatic
+Honda,Civic,2019,21000,180,Petrol,Manual
+Ford,Focus,2018,20000,130,Diesel,Manual
+BMW,X5,2020,50000,90,Diesel,Automatic
+Toyota,Corolla,2021,18000,160,Petrol,Manual
+Honda,Accord,2021,24000,170,Petrol,Automatic
+Ford,Fusion,2019,21000,125,Diesel,Manual
+BMW,X3,2018,48000,85,Diesel,Automatic
+Toyota,Yaris,2022,16000,200,Petrol,Manual
+Ford,Mustang,2021,30000,100,Diesel,Manual
