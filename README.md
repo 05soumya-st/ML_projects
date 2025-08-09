@@ -1,1 +1,1 @@
-# 9 Days Machine Learning Workshop
+# 9 Days python with Machine Learning Workshop
